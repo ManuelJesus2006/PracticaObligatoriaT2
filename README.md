@@ -74,19 +74,23 @@ Somos un programa que gestionará las entradas de nuestro Auditorio, donde traba
 
 ## 2. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
 
-Está es la entrada del programa donde tendremos 3 opciones en nuestro menú principal, donde la **opción 'a'** simulará la **Venta de entradas para el evento**
+Está es la entrada del programa donde tendremos 3 opciones en nuestro menú principal, donde la **opción 'a'** simulará la **Venta de entradas para el evento.**
 ![image](https://github.com/user-attachments/assets/b49c8df8-934d-4ea0-82b2-726bc0ffc559)
 
--La **opción 'b'** simulará la **Consultar el estado de un evento** 
+-La **opción 'b'** simulará la **Consultar el estado de los eventos.** 
 ![image](https://github.com/user-attachments/assets/9fc81156-eef9-45f5-a06e-aa4a576fb542)
 
 
--Y finalmente la **opción 'c'** simulará un **Menú de Administrador**
+-Y finalmente la **opción 'c'** simulará un **Menú de Administrador.**
 ![image](https://github.com/user-attachments/assets/fb76ebb6-82c1-41b4-b4b9-3bb0f8ca87ec)
 
 En caso de introducir una opción distinta de las opciones a elegir, saltará un mensaje de error, explicando el error del usuario.
 ![image](https://github.com/user-attachments/assets/5b5d9c88-712b-4f85-9fda-bfb24d89762f)
 
+- **VENTA DE ENTRADAS PARA EL EVENTO.**
 
+- **CONSULTAR EL ESTADO DE LOS EVENTOS.**
+
+- 
 - **MENÚ DE  INICIO DE SESIÓN.**
 
