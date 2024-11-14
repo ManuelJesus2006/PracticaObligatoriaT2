@@ -17,7 +17,13 @@
 
 ## **0. INSTALACIÓN**
 
-Para poder ejecutar nuestro programa debemos el instalar la version más reciente del jkd [ jdk 23.0.1 ] (https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe)
+-Para poder ejecutar nuestro programa debemos el instalar la version más reciente del jkd [ jdk 23.0.1 ] (https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe), debemos empezar la instalación, debemos 
+asegurarnos que lo instalamos en **"C:\Program Files\Java"**, después tenemos que entrar en el "Panel de Control" (para entrar podemos meternos en "Configuración" y buscamos panel del control)
+![image](https://github.com/user-attachments/assets/f6193364-6f7c-443d-b7f9-b6a01bf6d5cb)
+
+(O podemos darle a la tecla Windows
+y escribir 
+
 
 
 ##  **FUNCIONAMIENTO**
