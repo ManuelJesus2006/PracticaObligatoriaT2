@@ -111,10 +111,8 @@ Pulsaremos un **Enter para continuar**.
 
 - **INFORMACIÓN DEL TICKET**
   
-- Finalmente le daremos al cliente su ticket o sus tickets (dependiendo de la cantidad de tickets que haya comprado). Aquí mostraremos más información sobre la compra que hemos realizado donde se mostrará:
-- El número de en
-- La **Fecha del Evento** donde se saldrá la fecha de dicho de evento.
--
+Finalmente le daremos al cliente su ticket o sus tickets (dependiendo de la cantidad de tickets que haya comprado). Aquí mostraremos más información sobre la compra que hemos realizado donde se mostrará: El número de entradas (Ejemplo: "Esta tu entrada 1 de 3"),
+la **Fecha del Evento** donde saldrá la fecha de dicho de evento, el **Tipo de asiento** que será el que hemos elegido anteriormente, un **código de entrada** que lo usaremos para **evitar fraudes**, y finalmente mostraremos el precio final de la entrada. 
 
 ![image](https://github.com/user-attachments/assets/5a503d05-43b4-4f04-a78a-99bff4b4d868)
 
