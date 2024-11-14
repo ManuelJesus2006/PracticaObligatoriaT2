@@ -34,6 +34,7 @@ Y pincharemos en el **"Editar las variables de entorno del sistema"**
 
 
 Se nos abrirá la siguiente pestaña y le daremos a **"Variables de entorno..."**
+
 ![image](https://github.com/user-attachments/assets/45a4f94e-5035-42a8-ba7b-67b8031e67b7)
 
 
