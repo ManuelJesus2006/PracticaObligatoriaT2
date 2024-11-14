@@ -28,6 +28,9 @@ asegurarnos que lo instalamos en **"C:\Program Files\Java"**, después tenemos q
 Al abrir el Panel de Control le daremos al botón de buscar donde escribiremos "Variables"
 ![image](https://github.com/user-attachments/assets/1cb424e3-51e2-4a2c-8118-95ff2a897d60)
 
+Y pincharemos en el "Editar las variables de entorno del sistema"
+![image](https://github.com/user-attachments/assets/327f9bd8-2033-42b6-ae07-0cdc5c24a018)
+
 
 
 ##  **FUNCIONAMIENTO**
