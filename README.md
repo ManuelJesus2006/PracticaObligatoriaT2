@@ -25,6 +25,9 @@ asegurarnos que lo instalamos en **"C:\Program Files\Java"**, después tenemos q
 (O podemos darle a la tecla Windows y escribir "Panel de Control")
 ![image](https://github.com/user-attachments/assets/7eb54ca4-a38f-48dc-b25b-54ec6efacbb9)
 
+Al abrir el Panel de Control le daremos al botón de buscar donde escribiremos "Variables"
+![image](https://github.com/user-attachments/assets/1cb424e3-51e2-4a2c-8118-95ff2a897d60)
+
 
 
 ##  **FUNCIONAMIENTO**
