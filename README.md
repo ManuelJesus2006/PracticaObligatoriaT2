@@ -8,7 +8,9 @@
 
 -  **MENÚ PRINCIPAL.**
 
-1. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
+1.**QUIENES SOMOS**
+
+2. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
 
 - **MENÚ DE  INICIO DE SESIÓN.**
   
@@ -63,7 +65,12 @@ al ratón y dandole a la opción **"Abrir"**:
 ![image](https://github.com/user-attachments/assets/662dcc6a-dbec-4986-92f1-2508f2ee4267)
 
 
-## 1. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
+## 1. **QUIENES SOMOS**
+Somos un programa que gestionará las entradas de nuestro Auditorio, donde trabajaremos durante la temporada de Invierno.
+
+-Gestionaremos tres eventos los cual se llamarán: **Las Criadas**, **II Concierto de Otoño**, y finalmente **Concierto de Jazz**
+
+## 2. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
 
 Para empezar tendremos 3 opciones en nuestro menú principal, donde la **opción 'a'** simulará la **Venta de entradas para el evento**, la **opción 'b'** simulará la **Consultar el estado de un evento** y finalmente la **opción 'c'**
 simulará un Menú de **Administrador**
