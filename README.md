@@ -101,9 +101,17 @@ Al introducir una opción anteriormente, ahora **elegiremos el asiento** para ir
 
 ![image](https://github.com/user-attachments/assets/9acb82af-7050-4f7c-993d-06f10b0bbbaf)
 
-Con el dinero que nos ha dado el usuario le entregaremos su Cambio en la menor cantidad posible (Por ejemplo, en caso de que tendramos que devolverle al cliente 20€, en vez de darle 4 billetes de 5€, le daremos solamente 1 billete de 20€). Pulsaremos un **Enter para continuar**.
+Con el dinero que nos ha dado el usuario le entregaremos su Cambio en la menor cantidad posible (Por ejemplo, en caso de que tendramos que devolverle al cliente 20€, en vez de darle 4 billetes de 5€, le daremos solamente 1 billete de 20€). 
+Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/ca0ba577-a30d-4994-9d6b-8231cc98e011)
+
+-Finalmente le daremos al cliente su ticket o sus tickets (dependiendo de la cantidad de tickets que haya comprado). Aquí mostraremos más información sobre la compra que hemos realizado donde se mostrará:
+-El número de en
+-La **Fecha del Evento** donde se saldrá la fecha de dicho de evento.
+-
+
+![image](https://github.com/user-attachments/assets/5a503d05-43b4-4f04-a78a-99bff4b4d868)
 
 
 - **CONSULTAR EL ESTADO DE LOS EVENTOS.**
