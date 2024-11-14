@@ -46,7 +46,13 @@ Se nos abrirá la siguiente pestaña y le daremos a **"Variables de entorno..."*
 -Para ver que todo es correcto escribimos el comando **"javac -version"**, si todo sale bien nos saldrá la versión 23.0.1
 ![image](https://github.com/user-attachments/assets/f6cf704f-6ec5-4ac4-ba5e-2264612b31c5)
 
--Para ejecutar nuestro programa nos iremos al enlace de GitHub () y descargaremos 
+-Para ejecutar nuestro programa nos iremos al enlace de GitHub (https://github.com/jose712020/PracticaObligatoriaT2/tree/main) y le daremos al botón **"<> Code"** donde se desplegará varias opciones, y la 
+daremos a **"Download ZIP"**
+![image](https://github.com/user-attachments/assets/3a61ba32-6fcb-46ac-8a99-440abf3e57a4)
+
+-Cuando lo descarguemos y extraemos la carpeta donde más te convenga, al tenerla extraida nos saldrá lo siguiente, donde ejecutaremos el **"Practica O_T2.bat"**:
+![image](https://github.com/user-attachments/assets/0b297c9a-28f7-4f9d-a4ec-810a0a9e243a)
+
 
 ##  **FUNCIONAMIENTO**
 
