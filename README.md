@@ -21,8 +21,9 @@
 asegurarnos que lo instalamos en **"C:\Program Files\Java"**, después tenemos que entrar en el "Panel de Control" (para entrar podemos meternos en "Configuración" y buscamos panel del control)
 ![image](https://github.com/user-attachments/assets/f6193364-6f7c-443d-b7f9-b6a01bf6d5cb)
 
-(O podemos darle a la tecla Windows
-y escribir 
+
+(O podemos darle a la tecla Windows y escribir "Panel de Control")
+![image](https://github.com/user-attachments/assets/7eb54ca4-a38f-48dc-b25b-54ec6efacbb9)
 
 
 
