@@ -98,7 +98,7 @@ En caso de introducir una opción distinta de las opciones a elegir, saltará un
 ![image](https://github.com/user-attachments/assets/9ec6d60e-b6c4-4b44-b58e-bd68a2adf770)
 
 Al introducir una opción anteriormente, ahora **elegiremos el asiento** para ir ver el evento elegido anteriormente, nos saldrá que eligamos la **cantidad de entradas** que deseamos para el evento, al introducir la cantidad pedida, 
-ahora nos **pedirá el precio** que nos tiene que dar el usuario, 
+ahora nos **pedirá el precio** que nos tiene que dar el usuario, por último pediremos si quiere introducir una **fecha**, para introducir la fecha tendremos que introducir los datos con el siguiente formato: (YYYY-MM-DD).
 
 ![image](https://github.com/user-attachments/assets/9acb82af-7050-4f7c-993d-06f10b0bbbaf)
 
