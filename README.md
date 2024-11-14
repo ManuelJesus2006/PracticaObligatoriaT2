@@ -9,7 +9,7 @@
 
 -  **MENÚ PRINCIPAL.**
 
-1. **Iniciar sesión.**
+1. **Iniciar sesión para el Menú Administrador.**
 
 - **MENÚ DE  INICIO DE SESIÓN.**
   
