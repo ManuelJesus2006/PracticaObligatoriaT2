@@ -84,7 +84,7 @@ Para empezar tendremos 3 opciones en nuestro menú principal, donde la **opción
 -Y finalmente la **opción 'c'** simulará un Menú de **Administrador**
 ![image](https://github.com/user-attachments/assets/fb76ebb6-82c1-41b4-b4b9-3bb0f8ca87ec)
 
-En caso de introducir una opción distintas de las opciones a elegir, saltará un mensaje de error, explicando el error del usuario.
+En caso de introducir una opción distinta de las opciones a elegir, saltará un mensaje de error, explicando el error del usuario.
 ![image](https://github.com/user-attachments/assets/5b5d9c88-712b-4f85-9fda-bfb24d89762f)
 
 
