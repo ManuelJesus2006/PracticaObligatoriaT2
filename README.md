@@ -31,7 +31,8 @@ Al abrir el Panel de Control le daremos al botón de buscar donde escribiremos "
 Y pincharemos en el "Editar las variables de entorno del sistema"
 ![image](https://github.com/user-attachments/assets/327f9bd8-2033-42b6-ae07-0cdc5c24a018)
 
-
+Se nos abrirá la siguiente pestaña y le daremos a "Variables de entorno..."
+![image](https://github.com/user-attachments/assets/45a4f94e-5035-42a8-ba7b-67b8031e67b7)
 
 ##  **FUNCIONAMIENTO**
 
