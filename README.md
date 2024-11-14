@@ -46,6 +46,7 @@ Se nos abrirá la siguiente pestaña y le daremos a **"Variables de entorno..."*
 -Para ver que todo es correcto escribimos el comando **"javac -version"**, si todo sale bien nos saldrá la versión 23.0.1
 ![image](https://github.com/user-attachments/assets/f6cf704f-6ec5-4ac4-ba5e-2264612b31c5)
 
+-Para ejecutar nuestro programa nos iremos al enlace de GitHub () y descargaremos 
 
 ##  **FUNCIONAMIENTO**
 
