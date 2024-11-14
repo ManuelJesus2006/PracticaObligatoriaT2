@@ -66,9 +66,9 @@ al ratón y dandole a la opción **"Abrir"**:
 
 
 ## 1. **QUIENES SOMOS**
-Somos un programa que gestionará las entradas de nuestro Auditorio, donde trabajaremos durante la temporada de Invierno.
 
--Gestionaremos tres eventos los cual se llamarán: **Las Criadas**, **II Concierto de Otoño**, y finalmente **Concierto de Jazz**
+Somos un programa que gestionará las entradas de nuestro Auditorio, donde trabajaremos durante la temporada de Invierno.
+-Gestionaremos tres eventos los cuales se llamarán: **Las Criadas** que se realizará el 20/11/2024, **II Concierto de Otoño** que se realizará el 28/11/2024, y finalmente **Concierto de Jazz** que se realizará el 06/12/2024.
 
 ## 2. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
 
