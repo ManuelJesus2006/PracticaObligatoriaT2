@@ -89,8 +89,13 @@ En caso de introducir una opción distinta de las opciones a elegir, saltará un
 
 - **VENTA DE ENTRADAS PARA EL EVENTO.**
 
+-Venderemos las entradas en esta opción, donde el usuario al elegir la **opción 'a' del Menú Principal**, le llevará a elegir cual de los Tres Eventos desea acceder.
+![image](https://github.com/user-attachments/assets/240e0f7b-4313-4743-a59c-c49ef97ea25f)
+
+-Tendremos
+
 - **CONSULTAR EL ESTADO DE LOS EVENTOS.**
 
-- 
+
 - **MENÚ DE  INICIO DE SESIÓN.**
 
