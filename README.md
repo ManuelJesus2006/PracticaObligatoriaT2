@@ -56,16 +56,13 @@ al ratón y dandole a la opción **"Abrir"**:
 
 ![image](https://github.com/user-attachments/assets/0b297c9a-28f7-4f9d-a4ec-810a0a9e243a)
 
+
+### **MENÚ PRINCIPAL**
+
 -Finalmente tendremos nuestro programa en funcionamiento:
 
 ![image](https://github.com/user-attachments/assets/662dcc6a-dbec-4986-92f1-2508f2ee4267)
 
 
+
 ##  **FUNCIONAMIENTO**
-
-
-
-### **MENÚ PRINCIPAL**
-
-
-
