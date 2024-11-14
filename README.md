@@ -12,8 +12,11 @@
 
 2. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
 
+- **VENTA DE ENTRADAS PARA EL EVENTO.**
+
+- **INFORMACIÓN DEL TICKET**
+
 - **MENÚ DE  INICIO DE SESIÓN.**
-  
   
 
 ## **0. INSTALACIÓN**
@@ -106,9 +109,11 @@ Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/ca0ba577-a30d-4994-9d6b-8231cc98e011)
 
--Finalmente le daremos al cliente su ticket o sus tickets (dependiendo de la cantidad de tickets que haya comprado). Aquí mostraremos más información sobre la compra que hemos realizado donde se mostrará:
--El número de en
--La **Fecha del Evento** donde se saldrá la fecha de dicho de evento.
+- **INFORMACIÓN DEL TICKET**
+  
+- Finalmente le daremos al cliente su ticket o sus tickets (dependiendo de la cantidad de tickets que haya comprado). Aquí mostraremos más información sobre la compra que hemos realizado donde se mostrará:
+- El número de en
+- La **Fecha del Evento** donde se saldrá la fecha de dicho de evento.
 -
 
 ![image](https://github.com/user-attachments/assets/5a503d05-43b4-4f04-a78a-99bff4b4d868)
