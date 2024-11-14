@@ -2,14 +2,13 @@
   
 
 # **Indíce**
-
   
 
 0.  **Instalación.**
 
 -  **MENÚ PRINCIPAL.**
 
-1. **Iniciar sesión para el Menú Administrador.**
+1. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
 
 - **MENÚ DE  INICIO DE SESIÓN.**
   
@@ -64,5 +63,9 @@ al ratón y dandole a la opción **"Abrir"**:
 ![image](https://github.com/user-attachments/assets/662dcc6a-dbec-4986-92f1-2508f2ee4267)
 
 
+## 1. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
+
+Para empezar tendremos 3 opciones en nuestro menú principal, donde la **opción 'a'** simulará la **Venta de entradas para el evento**, la **opción 'b'** simulará la **Consultar el estado de un evento** y finalmente la **opción 'c'**
+simulará un Menú de **Administrador**
 
 ##  **FUNCIONAMIENTO**
