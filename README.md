@@ -97,10 +97,13 @@ En caso de introducir una opción distinta de las opciones a elegir, saltará un
 
 ![image](https://github.com/user-attachments/assets/9ec6d60e-b6c4-4b44-b58e-bd68a2adf770)
 
-Al introducir una opción anteriormente, ahora **elegiremos el asiento** para ir ver el evento elegido anteriormente, nos saldrá que eligamos la **cantidad de entradas** que deseamos para el evento, al introducir la cantidad pedida, 
-ahora nos **pedirá el precio** que nos tiene que dar el usuario, por último pediremos si quiere introducir una **fecha**, para introducir la fecha tendremos que introducir los datos con el siguiente formato: (YYYY-MM-DD).
+Al introducir una opción anteriormente, ahora **elegiremos el asiento** para ir a ver el evento elegido anteriormente, nos saldrá que eligamos la **cantidad de entradas** que deseamos para el evento, al introducir la cantidad pedida, ahora nos **pedirá el precio** del dinero que nos tiene que dar el usuario, por último pediremos si quiere introducir una **fecha**, para introducir la fecha tendremos que introducir los datos con el siguiente formato: (YYYY-MM-DD). Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/9acb82af-7050-4f7c-993d-06f10b0bbbaf)
+
+Con el dinero que nos ha dado el usuario le entregaremos su Cambio en la menor cantidad posible (Por ejemplo, en caso de que tendramos que devolverle al cliente 20€, en vez de darle 4 billetes de 5€, le daremos solamente 1 billete de 20€). Pulsaremos un **Enter para continuar**.
+
+![image](https://github.com/user-attachments/assets/ca0ba577-a30d-4994-9d6b-8231cc98e011)
 
 
 - **CONSULTAR EL ESTADO DE LOS EVENTOS.**
