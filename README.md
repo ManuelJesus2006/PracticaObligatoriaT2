@@ -193,12 +193,16 @@ Ticket pintado:
 
 Introdcucción de los datos:
 
-
+![image](https://github.com/user-attachments/assets/1c659b4d-c866-4c90-8570-670e35912902)
 
 Cambio:
 
+![image](https://github.com/user-attachments/assets/adc23d0e-8ac4-4238-bd6e-4334f7ca5bc2)
 
 Ticket pintado:
+
+![image](https://github.com/user-attachments/assets/1f2b216f-6f10-4249-81a2-79e4daa4effc)
+
 
 4. **CONSULTAR EL ESTADO DE UN EVENTO**
 
