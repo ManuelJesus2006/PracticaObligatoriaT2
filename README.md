@@ -226,4 +226,16 @@ En caso de introducir una opción incorrecta, le haremos saber al usuario que la
 ![image](https://github.com/user-attachments/assets/643aebef-9fe8-4b20-ac99-3b6e87048032)
 
 
+- **ENTRADAS VENDIDAS DE CADA TIPO**
+
+En esta opción podremos ver las entradas vendidas de cada evento, nos dará a elegir el evento que queremos consultar. 
+
+![image](https://github.com/user-attachments/assets/cfba9fc2-f317-4b92-9b9d-89b400566749)
+
+En caso de introducir una opción incorrecta nos dará un mensaje de error.
+
+![image](https://github.com/user-attachments/assets/e2a35ce9-dc36-4254-b5b6-23ff7d851cad)
+
+
+
 5. **MENÚ DE ADMINISTRADOR.**
