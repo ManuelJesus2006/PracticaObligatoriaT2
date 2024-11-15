@@ -141,6 +141,42 @@ Ticket pintado:
 ![image](https://github.com/user-attachments/assets/0fd75441-46fe-4300-9450-e97e2df6f0ab)
 
 
+**Evento: II Concierto de Otoño**
+
+**CON DESCUENTO**
+
+Introducción de los datos: 
+
+![image](https://github.com/user-attachments/assets/e014cf02-d02a-4d34-9349-936ccc03d9af)
+
+Cambio:
+
+![image](https://github.com/user-attachments/assets/0c1e4cf6-1629-4965-a39a-3d0181a35d1e)
+
+Ticket pintado:
+
+![image](https://github.com/user-attachments/assets/4a7cece9-65c4-4526-95c0-3629489f1551)
+
+
+**SIN DESCUENTO**
+
+Introducción de los datos: 
+
+![image](https://github.com/user-attachments/assets/f91cdb12-0fae-4c1a-ae9a-7cbf98f4fe30)
+
+Cambio:
+
+![image](https://github.com/user-attachments/assets/37828fee-0e51-4005-bb35-6fd1e0bc7aa6)
+
+Ticket pintado:
+
+![image](https://github.com/user-attachments/assets/e68d7cbd-40e7-497a-80d0-4bbe33320ef4)
+
+
+**Evento: Concierto de Jazz**
+
+
+
 4. **CONSULTAR EL ESTADO DE UN EVENTO**
 
 5. **MENÚ DE ADMINISTRADOR.**
