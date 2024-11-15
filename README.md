@@ -117,6 +117,11 @@ Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/ca0ba577-a30d-4994-9d6b-8231cc98e011)
 
+En caso de que un cliente nos entregue una **Cantidad insuficiente** no se podrá comprar ninguna entrada, y le diremos que la cantidad es insuficiente.
+
+![image](https://github.com/user-attachments/assets/26dd85fd-b496-4dd4-95e0-4c8e988d6f4c)
+
+
 - **INFORMACIÓN DEL TICKET**
   
 Finalmente le daremos al cliente su ticket o sus tickets (dependiendo de la cantidad de tickets que haya comprado). Aquí mostraremos más información sobre la compra que hemos realizado donde se mostrará: El **número de entradas** (Ejemplo: "Esta tu entrada 1 de 3"),
