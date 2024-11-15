@@ -128,6 +128,16 @@ Al ver el siguiente ticket podemos observar como el número de entradas y el có
 
 ![image](https://github.com/user-attachments/assets/ad6752df-4b6c-4490-8ea5-8cddf1acabb8)
 
+**EJEMPLO SIN DESCUENTO CON OTRO ASIENTO**
+
+Introducción de los datos:
+
+![image](https://github.com/user-attachments/assets/bcab28e1-cdd7-4a89-a663-a79d1a06b364)
+
+Ticket pintada:
+
+![image](https://github.com/user-attachments/assets/0fd75441-46fe-4300-9450-e97e2df6f0ab)
+
 
 4. **CONSULTAR EL ESTADO DE UN EVENTO**
 
