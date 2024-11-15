@@ -278,7 +278,7 @@ Ahora haremos una comprobación de las entradas libres de cada evento. Al ver la
 
 - **DÍAS QUE QUEDAN HASTA EL EVENTO Y NOS INFORMA SI ESTAMOS EN EL PERIODO DE DESCUENTO POR EVENTO ANTICIPADA**
 
-Esta opción nos informará de los **días que quedan hasta el dia del evento** y nos hará saber si estamos en **Periodo de descuento.**
+Esta opción nos informará de los **días que quedan hasta el dia del evento** y nos hará saber si estamos en **Periodo de descuento**. Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/719af2ab-ecf0-4145-92b1-f8bc5bb02886)
 
