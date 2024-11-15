@@ -211,4 +211,8 @@ Ticket pintado:
 
 4. **CONSULTAR EL ESTADO DE UN EVENTO**
 
+Aquí mostraremos al cliente un submenú donde podrá consultar en la **opción 'a'** veremos las **Entradas vendidas de un evento**, en la **opción 'b'** veremos las **Entradas libres de cada tipo**, y en la **opción 'c'** veremos los **Días que quedan hasta el evento y si estamos en periodo de descuento por venta antipaca** 
+
+![image](https://github.com/user-attachments/assets/3cbdec20-a356-4ce7-ab87-289147cb9cc5)
+
 5. **MENÚ DE ADMINISTRADOR.**
