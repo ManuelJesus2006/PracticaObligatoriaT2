@@ -137,7 +137,7 @@ la **Fecha del Evento** donde saldrá la fecha de dicho de evento, el **Tipo de 
 
 ![image](https://github.com/user-attachments/assets/5a503d05-43b4-4f04-a78a-99bff4b4d868)
 
-Al ver el siguiente ticket podemos observar como el número de entradas y el código de entrada van cambiando.
+Al ver el siguiente ticket podemos observar como el número de entradas y el código de entrada van cambiando. Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/ad6752df-4b6c-4490-8ea5-8cddf1acabb8)
 
@@ -217,11 +217,11 @@ Ticket pintado:
 
 4. **CONSULTAR EL ESTADO DE UN EVENTO**
 
-Aquí mostraremos al cliente un submenú donde podrá consultar en la **opción 'a'** veremos las **Entradas vendidas de un evento**, en la **opción 'b'** veremos las **Entradas libres de cada tipo**, y en la **opción 'c'** veremos los **Días que quedan hasta el evento y si estamos en periodo de descuento por venta antipaca** 
+Aquí mostraremos al cliente un submenú donde podrá consultar en la **opción 'a'** veremos las **Entradas vendidas de un evento**, en la **opción 'b'** veremos las **Entradas libres de cada tipo**, y en la **opción 'c'** veremos los **Días que quedan hasta el evento y si estamos en periodo de descuento por venta anticipada** 
 
 ![image](https://github.com/user-attachments/assets/3cbdec20-a356-4ce7-ab87-289147cb9cc5)
 
-En caso de introducir una opción incorrecta, le haremos saber al usuario que la opción es errónea.
+En caso de introducir una opción incorrecta, le haremos saber al usuario que la opción es errónea. Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/643aebef-9fe8-4b20-ac99-3b6e87048032)
 
@@ -232,10 +232,23 @@ En esta opción podremos ver las entradas vendidas de cada evento, nos dará a e
 
 ![image](https://github.com/user-attachments/assets/cfba9fc2-f317-4b92-9b9d-89b400566749)
 
-En caso de introducir una opción incorrecta nos dará un mensaje de error.
+En caso de introducir una opción incorrecta nos dará un mensaje de error. Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/e2a35ce9-dc36-4254-b5b6-23ff7d851cad)
 
+Ahora haremos una comprobación de las entradas vendidas de cada evento. Al ver la información, pulsaremos un **Enter para continuar**.
+
+**Evento: Las Criadas**
+
+![image](https://github.com/user-attachments/assets/dfdf4913-af14-45e0-bc59-bf377d894832)
+
+**Evento: II Concierto de Otoño**
+
+![image](https://github.com/user-attachments/assets/71676169-1754-44f0-ac7f-4860fc4df4f3)
+
+**Evento: Concierto de Jazz**
+
+![image](https://github.com/user-attachments/assets/8c11126e-02e6-488c-a208-1c372c71a935)
 
 
 5. **MENÚ DE ADMINISTRADOR.**
