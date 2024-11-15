@@ -283,3 +283,9 @@ Esta opción nos informará de los **días que quedan hasta el dia del evento** 
 ![image](https://github.com/user-attachments/assets/719af2ab-ecf0-4145-92b1-f8bc5bb02886)
 
 5. **MENÚ DE ADMINISTRADOR.**
+
+Esta opción lo que hará es que para acceder al Menú de Administrador tendremos que introducir un **nombre usuario** y **una contraseña**, en caso de que los datos introducidos sean incorrectos nos saldrá el siguiente mensaje:
+
+![image](https://github.com/user-attachments/assets/3b33d209-dc14-4309-9f89-7cdb7c2e2ea3)
+
+En caso de introduccir los datos correctos.
