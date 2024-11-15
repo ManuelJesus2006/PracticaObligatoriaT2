@@ -175,7 +175,30 @@ Ticket pintado:
 
 **Evento: Concierto de Jazz**
 
+**CON DESCUENTO**
 
+Introdcucción de los datos:
+
+![image](https://github.com/user-attachments/assets/fa19b661-93aa-4550-bb6a-1ba4d3d0f700)
+
+Cambio:
+
+![image](https://github.com/user-attachments/assets/5587d200-9aad-4313-ac62-50c9723a71c0)
+
+Ticket pintado:
+
+![image](https://github.com/user-attachments/assets/8eff35bf-e400-4c68-8755-5e3a71375b96)
+
+**SIN DESCUENTO**
+
+Introdcucción de los datos:
+
+
+
+Cambio:
+
+
+Ticket pintado:
 
 4. **CONSULTAR EL ESTADO DE UN EVENTO**
 
