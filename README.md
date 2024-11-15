@@ -288,4 +288,12 @@ Esta opción lo que hará es que para acceder al Menú de Administrador tendremo
 
 ![image](https://github.com/user-attachments/assets/3b33d209-dc14-4309-9f89-7cdb7c2e2ea3)
 
-En caso de introduccir los datos correctos.
+**Datos correctos:**
+
+![image](https://github.com/user-attachments/assets/eb129a33-2054-4936-b904-9560ba89c6ba)
+
+
+En caso de introduccir los datos correctos, habremos conseguido acceder al **Menú de Admistrador**. Donde tendremos la **opción 'i'** que nos enseñará lo **Recolectado de Cada Evento.**, la **opción 'ii'** nos mostrará la **cantidad de billetes y de monedas restantes para el cambio**, y finalmente en la **opción 'iii' Apagaremos el Programa** 
+
+![image](https://github.com/user-attachments/assets/b05efccb-a845-4d13-a48b-4ea1b01e4597)
+
