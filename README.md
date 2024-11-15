@@ -251,4 +251,31 @@ Ahora haremos una comprobación de las entradas vendidas de cada evento. Al ver 
 ![image](https://github.com/user-attachments/assets/8c11126e-02e6-488c-a208-1c372c71a935)
 
 
+- **ENTRADAS LIBRES DE CADA TIPO**
+
+En esta opción podremos ver las entradas libres que quedan de cada evento, nos saldrá un menú para elegir un evento y hacer la comprobación de entradas libres.
+
+![image](https://github.com/user-attachments/assets/4f84894d-5025-4b88-bd39-d0586e753a21)
+
+Al introducir una opción incorrecta nos lo hará saber.
+
+![image](https://github.com/user-attachments/assets/409defd4-032d-4837-a5e1-de82125895e2)
+
+Ahora haremos una comprobación de las entradas libres de cada evento. Al ver la información, pulsaremos un **Enter para continuar**.
+
+**Evento: Las Criadas**
+
+![image](https://github.com/user-attachments/assets/94762a36-c08e-4c3f-85d0-b5c6ec666efe)
+
+**Evento: II Concierto de Otoño**
+
+![image](https://github.com/user-attachments/assets/28d284a4-5d68-4727-83c7-eb30a95ee846)
+
+**Evento: Concierto de Jazz**
+
+![image](https://github.com/user-attachments/assets/2b168ca8-b3a6-4a75-a5b4-be782cccf69d)
+
+- **DÍAS QUE QUEDAN HASTA EL EVENTO Y NOS INFORMA SI ESTAMOS EN EL PERIODO DE DESCUENTO POR EVENTO ANTICIPADA**
+
+
 5. **MENÚ DE ADMINISTRADOR.**
