@@ -18,7 +18,9 @@
 
 - **INFORMACIÓN DEL TICKET**
 
-- **MENÚ DE  INICIO DE SESIÓN.**
+4. **CONSULTAR EL ESTADO DE UN EVENTO**
+
+5. **MENÚ DE ADMINISTRADOR.**
   
 
 ## **0. INSTALACIÓN**
@@ -127,8 +129,6 @@ Al ver el siguiente ticket podemos observar como el número de entradas y el có
 ![image](https://github.com/user-attachments/assets/ad6752df-4b6c-4490-8ea5-8cddf1acabb8)
 
 
-- **CONSULTAR EL ESTADO DE LOS EVENTOS.**
+4. **CONSULTAR EL ESTADO DE UN EVENTO**
 
-
-- **MENÚ DE  INICIO DE SESIÓN.**
-
+5. **MENÚ DE ADMINISTRADOR.**
