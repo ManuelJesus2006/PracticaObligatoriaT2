@@ -305,9 +305,22 @@ En caso de introduccir los datos correctos, habremos conseguido acceder al **Men
 
 ![image](https://github.com/user-attachments/assets/b05efccb-a845-4d13-a48b-4ea1b01e4597)
 
+En caso de introducir una **opción incorrecta** lo sabremos de inmediato, ya que nos hará **volver al Menú Principal.**
+
+![image](https://github.com/user-attachments/assets/06f21f76-1287-4e05-8b39-8d8b6c62c8f8)
+
 
 - **CONSULTAR LOS INGRESOS TOTALES POR EVENTO**
 
+Podremos consultar en esta opción lo recolectado por cada evento. Pulsaremos un **Enter para continuar**.
+
+![image](https://github.com/user-attachments/assets/9151b498-0fa7-4573-8ab1-bcd7f659de6b)
+
 - **CONSULTAR DINERO RESTANTE PARA EL CAMBIO**
+
+Nos mostrará la cantidad de dinero restante que tendremos para el cambio que le daremos al cliente cuando nos compren las entradas.
+
+![image](https://github.com/user-attachments/assets/d0ca05c3-06d0-4bbd-ac14-191904142e31)
+
   
 - **APAGAR EL SOFTWARE**
