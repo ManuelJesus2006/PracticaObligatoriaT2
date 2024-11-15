@@ -14,6 +14,8 @@
 
 - **VENTA DE ENTRADAS PARA EL EVENTO.**
 
+- **DESCUENTO**
+
 - **INFORMACIÓN DEL TICKET**
 
 - **MENÚ DE  INICIO DE SESIÓN.**
@@ -101,6 +103,10 @@ En caso de introducir una opción distinta de las opciones a elegir, saltará un
 ![image](https://github.com/user-attachments/assets/9ec6d60e-b6c4-4b44-b58e-bd68a2adf770)
 
 Al introducir una opción anteriormente, ahora **elegiremos el asiento** para ir a ver el evento elegido anteriormente, nos saldrá que eligamos la **cantidad de entradas** que deseamos para el evento, al introducir la cantidad pedida, ahora nos **pedirá el precio** del dinero que nos tiene que dar el usuario, por último pediremos si quiere introducir una **fecha**, para introducir la fecha tendremos que introducir los datos con el siguiente formato: (YYYY-MM-DD). Pulsaremos un **Enter para continuar**.
+
+- **DESCUENTO**
+
+En caso de comprar la entrada con una fecha de 7 días de antelación se nos aplicará un descuento (Este varía dependiendo del evento). En caso de que el cliente no quiera introducir la fecha la compra se hará en el día actual.
 
 ![image](https://github.com/user-attachments/assets/9acb82af-7050-4f7c-993d-06f10b0bbbaf)
 
