@@ -215,4 +215,9 @@ Aquí mostraremos al cliente un submenú donde podrá consultar en la **opción 
 
 ![image](https://github.com/user-attachments/assets/3cbdec20-a356-4ce7-ab87-289147cb9cc5)
 
+En caso de introducir una opción incorrecta, le haremos saber al usuario que la opción es errónea.
+
+![image](https://github.com/user-attachments/assets/643aebef-9fe8-4b20-ac99-3b6e87048032)
+
+
 5. **MENÚ DE ADMINISTRADOR.**
