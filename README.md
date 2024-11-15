@@ -228,7 +228,7 @@ En caso de introducir una opción incorrecta, le haremos saber al usuario que la
 
 - **ENTRADAS VENDIDAS DE CADA TIPO**
 
-En esta opción podremos ver las entradas vendidas de cada evento, nos dará a elegir el evento que queremos consultar. 
+En esta opción podremos ver las **entradas vendidas** de cada evento, nos dará a elegir el evento que queremos consultar. 
 
 ![image](https://github.com/user-attachments/assets/cfba9fc2-f317-4b92-9b9d-89b400566749)
 
@@ -253,7 +253,7 @@ Ahora haremos una comprobación de las entradas vendidas de cada evento. Al ver 
 
 - **ENTRADAS LIBRES DE CADA TIPO**
 
-En esta opción podremos ver las entradas libres que quedan de cada evento, nos saldrá un menú para elegir un evento y hacer la comprobación de entradas libres.
+En esta opción podremos ver las **entradas libres** que quedan de cada evento, nos saldrá un menú para elegir un evento y hacer la comprobación de entradas libres.
 
 ![image](https://github.com/user-attachments/assets/4f84894d-5025-4b88-bd39-d0586e753a21)
 
@@ -275,7 +275,11 @@ Ahora haremos una comprobación de las entradas libres de cada evento. Al ver la
 
 ![image](https://github.com/user-attachments/assets/2b168ca8-b3a6-4a75-a5b4-be782cccf69d)
 
+
 - **DÍAS QUE QUEDAN HASTA EL EVENTO Y NOS INFORMA SI ESTAMOS EN EL PERIODO DE DESCUENTO POR EVENTO ANTICIPADA**
 
+Esta opción nos informará de los **días que quedan hasta el dia del evento** y nos hará saber si estamos en **Periodo de descuento.**
+
+![image](https://github.com/user-attachments/assets/719af2ab-ecf0-4145-92b1-f8bc5bb02886)
 
 5. **MENÚ DE ADMINISTRADOR.**
