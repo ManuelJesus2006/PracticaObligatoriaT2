@@ -12,7 +12,7 @@
 
 2. **FUNCIONAMIENTO DEL MENÚ PRINCIPAL.**
 
-- **VENTA DE ENTRADAS PARA EL EVENTO.**
+3. **VENTA DE ENTRADAS PARA EL EVENTO.**
 
 - **DESCUENTO**
 
@@ -92,7 +92,7 @@ Está es la entrada del programa donde tendremos 3 opciones en nuestro menú pri
 En caso de introducir una opción distinta de las opciones a elegir, saltará un mensaje de error, explicando el error del usuario.
 ![image](https://github.com/user-attachments/assets/5b5d9c88-712b-4f85-9fda-bfb24d89762f)
 
-- **VENTA DE ENTRADAS PARA EL EVENTO.**
+3. **VENTA DE ENTRADAS PARA EL EVENTO.**
 
 -Venderemos las entradas en esta opción, donde el usuario al elegir la **opción 'a' del Menú Principal**, le llevará a elegir cual de los Tres Eventos desea acceder.
 
