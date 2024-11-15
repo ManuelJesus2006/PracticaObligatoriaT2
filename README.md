@@ -301,7 +301,7 @@ Esta opción lo que hará es que para acceder al Menú de Administrador tendremo
 ![image](https://github.com/user-attachments/assets/eb129a33-2054-4936-b904-9560ba89c6ba)
 
 
-En caso de introduccir los datos correctos, habremos conseguido acceder al **Menú de Admistrador**. Donde tendremos la **opción 'i'** que nos enseñará lo **Recolectado de Cada Evento.**, la **opción 'ii'** nos mostrará la **cantidad de billetes y de monedas restantes para el cambio**, y finalmente en la **opción 'iii' Apagaremos el Software** 
+En caso de introduccir los datos correctos, habremos conseguido acceder al **Menú de Admistrador**. Donde tendremos la **opción 'i'** que nos enseñará lo **Recolectado de Cada Evento.**, la **opción 'ii'** nos mostrará la **cantidad de billetes y de monedas restantes para el cambio**, y finalmente en la **opción 'iii' Apagaremos el Software.** 
 
 ![image](https://github.com/user-attachments/assets/b05efccb-a845-4d13-a48b-4ea1b01e4597)
 
@@ -318,9 +318,13 @@ Podremos consultar en esta opción lo recolectado por cada evento. Pulsaremos un
 
 - **CONSULTAR DINERO RESTANTE PARA EL CAMBIO**
 
-Nos mostrará la cantidad de dinero restante que tendremos para el cambio que le daremos al cliente cuando nos compren las entradas.
+Nos mostrará la cantidad de dinero restante que tendremos para el cambio que le daremos al cliente cuando nos compren las entradas. Pulsaremos un **Enter para continuar**.
 
 ![image](https://github.com/user-attachments/assets/d0ca05c3-06d0-4bbd-ac14-191904142e31)
 
   
 - **APAGAR EL SOFTWARE**
+
+Finalmente está opción será la que hará **Apagar el Programa.**
+
+![image](https://github.com/user-attachments/assets/129606de-0c16-44be-925c-778ce961714d)
